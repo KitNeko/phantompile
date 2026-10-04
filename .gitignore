@@ -1,0 +1,14 @@
+.venv/
+build/
+asm/
+assets/
+extract/
+image/
+*.bin
+*.cue
+*.iso
+*.img
+*.exe
+*.EXE
+*.XA
+*.STR
