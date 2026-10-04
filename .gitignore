@@ -12,3 +12,8 @@ image/
 *.EXE
 *.XA
 *.STR
+*.bak
+*.orig
+*.save
+undefined_funcs_auto.txt
+undefined_syms_auto.txt
